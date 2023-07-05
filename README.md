@@ -6,4 +6,4 @@ This is just documentation for a private extension.
 1. Open this [link](https://api.slack.com/apps).
 2. Click “Create New App” button. If this button is not available for you, log in Slack firstly.
 
-![Create new app](https://prnt.sc/bG8YE80Z5jKs)
+![Create new app](images/createApp.png)
